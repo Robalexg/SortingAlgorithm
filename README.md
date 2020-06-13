@@ -1,2 +1,0 @@
-# SortingAlgorithm
-Created with CodeSandbox
